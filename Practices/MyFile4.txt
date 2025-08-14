@@ -1,0 +1,91 @@
+Woods Hole,US
+Chatham,US
+Hyannis Port,US
+Provincetown,US
+South Chatham,US
+South Wellfleet,US
+West Harwich,US
+Pittsfield,US
+Becket,US
+Glendale,US
+Lanesborough,US
+Southfield,US
+North Easton,US
+Fairhaven,US
+New Bedford,US
+Raynham,US
+Swansea,US
+Westport Point,US
+Edgartown,US
+Oak Bluffs,US
+Cuttyhunk,US
+Haverhill,US
+Lynn,US
+Swampscott,US
+Amesbury,US
+Gloucester,US
+Middleton,US
+Newbury,US
+Andover,US
+Whately,US
+Greenfield,US
+Rowe,US
+South Deerfield,US
+Bondsville,US
+Chicopee,US
+Chicopee,US
+Palmer,US
+Woronoco,US
+Springfield,US
+Springfield,US
+Springfield,US
+Indian Orchard,US
+Granby,US
+Haydenville,US
+Northampton,US
+Northampton,US
+Groton,US
+Ashland,US
+Carlisle,US
+Woburn,US
+Reading,US
+Tyngsboro,US
+North Reading,US
+Cambridge,US
+Somerville,US
+Medford,US
+Newton Center,US
+Chestnut Hill,US
+Watertown,US
+Dedham,US
+Medway,US
+Walpole,US
+Quincy,US
+Brookline Village,US
+East Bridgewater,US
+Hanover,US
+Hanson,US
+Lakeville,US
+Abington,US
+White Horse Beach,US
+Boston,US
+Boston,US
+Charlestown,US
+Roslindale,US
+Readville,US
+Boston,US
+Boston,US
+Boston,US
+Gilbertville,US
+Harvard,US
+Leominster,US
+Lancaster,US
+New Braintree,US
+Rutland,US
+Dudley,US
+West Boylston,US
+Worcester,US
+Worcester,US
+Worcester,US
+Worcester,US
+Hopedale,US
